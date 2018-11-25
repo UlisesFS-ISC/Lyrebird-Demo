@@ -1,5 +1,5 @@
 # Lyrebird demo
-Sample app for a Lyrebird based app, whose main purpose is to provide users the capability to communicate with Lyrebird APi, to create utterances,
+Sample app for a Lyrebird based app, whose main purpose is to provide users the capability to communicate with Lyrebird API, to create utterances
 based on their profile voice.
 
 ## Main features
